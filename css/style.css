@@ -1,0 +1,683 @@
+.home{
+    width: 100%;
+    height: 100%;
+    
+    background-image: url(../img/solar-panels-meadow\ 1.png);
+    background-size: 100% 100%;
+    position: relative;
+}
+.nav{
+    background-color: #0B9586;
+    height: 10%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.nav-logo img{
+    width: 80%;
+    height: 80%;
+   
+}
+.nav-menu{
+
+    width: 30%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav-contant{
+    color: white;
+   
+    
+}
+.nav-contant p{
+    position: relative;
+    left: 64px;
+    top: 18px;
+
+
+}
+.nav-menu ul{
+  
+    width: 100%;
+    display: flex;
+    color: white;
+    list-style: none;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+
+.home-contant{
+    
+    width:520px;
+   height: 280px;
+    position: absolute;
+    left: 330px;
+    top: 130px;
+    font-family: "Inter", sans-serif;
+}
+.home-contant h2 {
+    color: #fff;
+    font-size: 40px;
+    font-weight: 600px;
+    
+}
+.home-contant p{
+    color: #fff;
+   
+    
+}
+.btn1{
+    width: 130px;
+background-color:#0B9586;
+padding: 10px;
+color: #fff;
+
+border: solid white 0px;
+border-radius: 20px;
+font-size: 11px;
+
+}
+.btn2{
+    width: 130px;
+background-color:#FFBB1C;
+padding: 10px;
+color: black;
+margin-left: 10px;
+border: solid white 0px;
+border-radius: 20px;
+font-size: 11px;
+}
+.About{
+
+    width: 90%;
+    height: 100%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+   
+   
+}
+.About1{
+ 
+    width: 50%;
+    position: relative;
+    bottom: 35px;
+    right: 14px;
+    font-family: "Inter", sans-serif;
+}
+.Aboutp{
+    color:#475467;
+    
+}
+.About2{
+
+    width: 30%;
+    height: 400px;
+  
+    position: relative;
+}
+
+.About2 img{
+    width: 85%;
+    height: 100%;
+    position: absolute;
+    right: 0;
+     
+}
+.color{
+    background-color: #FFBB1C;
+    text-align: center;
+    width: 180px;
+    height: 140px;
+    position: relative;
+    left: 0%;
+    top: 225px;
+    border-radius:7px ;
+}
+
+
+
+.iconp{
+    font-size: 11px;
+    width: 80%;
+
+    margin-left: 5px;
+}
+h3{
+    font-size: 38px;
+}
+span{
+    color: #84BD3A;
+}
+.three{
+
+    background-image: url(../img/8116\ 1.png);
+    background-size: 100% 100%;
+    height: 70vh;
+}
+.sec3{
+    
+   
+    width: 42%;
+    position: relative;
+    top: 120px;
+    left: 200px;
+    font-family: "Inter", sans-serif;
+
+
+}
+.sec3 h4{
+font-size: 32px;
+    color: #fff;
+    font-family: "Inter", sans-serif;
+
+}
+.sec3 p{
+ 
+        color: #fff;
+        font-size: 18px;
+        font-family: "Inter", sans-serif;
+
+}
+.btn3{
+    background-color: #FFBB1C;
+
+    width: 140px;
+    padding:10px;
+    border: white;
+    border-radius: 25px ;
+}
+
+.solar-head{
+ 
+    width: 60%;
+    text-align: center;
+    margin: auto;
+    
+}
+
+.solar-partion{
+
+    width: 80%;
+    margin: auto;
+   display: flex;
+   justify-content: space-evenly;
+   align-items: center;
+}
+.solar-details{
+width: 31%;
+
+
+}
+.solar-contant{
+    padding: 22px;
+    background-color:beige;
+    font-family: "Inter", sans-serif;
+}
+.solar-details img{
+    width: 100%;
+}
+.solar-contant p{
+color: #475467;
+}
+.solar-contant h4{
+    font-family: "Inter", sans-serif;
+}
+#solarp{
+    color: #3CAB90;
+}
+i{
+    color: #3CAB90;
+margin-left: 10px;
+}
+.repair{
+    background-color: teal;
+    background-image: url(../img/8116\ 1\ \(1\).png);
+    background-size: 100% 100%;
+    height: 80vh;
+    margin-top: 3%;
+    background-color: red;
+}
+
+.repair-contant{
+    background-color: #000000a2;
+    width: 60%;
+   
+    text-align: center;
+    position: relative;
+    top: 20%;
+    left: 20%;
+    padding: 5px;
+    font-family: "Inter", sans-serif;
+   
+    
+}
+.repair-contant h3{
+    color: #fff;
+   
+}
+.repair-contant p{
+    color: #fff;
+    
+    font-size: 20px;
+    padding: 20px;
+   
+  
+}
+.six{
+   
+    width: 90%;
+    height: 100vh;
+    margin: auto;
+    display: flex;
+    justify-content: space-evenly;
+   padding: 15px;
+    
+}
+.energy-head{
+  
+    width: 20%;
+    font-family: "Inter", sans-serif;
+
+}
+.energy-head h4{
+    font-size: 25px;
+}
+.energy-head p{
+    font-size: 12px;
+color: #475467;
+}
+#energy-icon{
+    font-size: 14px;
+    padding: 5px;
+    background-color: #3CAB90;
+    color: #fff;
+    border: solid 8px rgba(128, 128, 128, 0.288);
+    border-radius: 14px;
+}
+
+
+.energy-body{
+ 
+    width: 60%;
+    height: 100vh;
+    font-family: "Inter", sans-serif;
+
+    
+}
+.ayhaga{
+    width: 100%;
+    height: 50%;
+
+    
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.energy-body img{
+ width: 100%;
+ border-radius: 15px;
+}
+.energy-item{
+    background-color: #3cab8f13;
+    width: 35%;
+    height: 90%;
+    padding: 15px;
+   
+    
+    border-radius: 12px;
+    border:solid 1px #3CAB90;
+   
+
+}
+
+.energy-content h4{
+    font-size: 17px;
+}
+.energy-content p{
+    width: 93%;
+color: #475467;
+font-size: 12px;
+
+
+
+margin-bottom: 40px;
+}
+#demo{
+    color: 3CAB90;
+
+}
+.section{
+    width: 100%;
+    height: 48%;
+    
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 20px;
+}
+.energy-item2{
+    width: 35%;
+    height: 90%;
+    padding: 15px;
+    background-color: #3cab8f13;
+   
+    font-family: "Inter", sans-serif;
+    border-radius: 12px;
+    border:solid 1px #3CAB90;
+}
+#sec3{
+    height: 80%;
+    margin-bottom: 27px;
+}
+.seven{
+ 
+    width: 100%;
+    height: 100%;
+}
+.values-head{
+  
+    width: 100%;
+    height: 20%;
+    margin: auto;
+    text-align: center;
+}
+.values-contant{
+  
+    width: 80%;
+    height: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.values-details{
+    width: 27.5%;
+    height: 80%;
+    
+    background-color:  #3cab8f13;
+    padding: 18px;
+    border:solid 1px #3CAB90;
+    border-radius: 10px;
+}
+.values-details p{
+    font-family: "Inter", sans-serif;
+color: #475467;
+}
+#test{
+   font-size: 40px;
+   color: #3CAB90; 
+}
+
+.eight{
+
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+#icon{
+    font-size: 50px;
+    font-weight: 600;
+}
+.woc-head{
+
+width: 25%;
+font-family: "Inter", sans-serif;
+
+
+
+}
+.woc-contant{
+background-color: #3cab8f0a; 
+border: solid 1px white;
+border-radius: 4%; 
+  width: 40%;
+    height: 70%;
+    position: relative;
+    right: 100px;
+    padding: 25px;
+    
+}
+.woc-details1{
+    
+    width: 100%;
+   height: 70%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: space-between;
+}
+.woc-details1 h5{
+    font-size: 17px;
+    font-family: "Inter", sans-serif;
+}
+.woc-circle{
+    width: 100px;
+   
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    position: relative;
+    bottom: 40%;
+    
+}
+.woc-about{
+    width: 69%;
+    
+    font-family: "Inter", sans-serif;
+}
+.woc-about p{
+    color: #3CAB90;
+}
+#span{
+    background-color: #6B6B6B;
+}
+.circle{
+    width: 7px;
+    height: 7px;
+    background-color: #D9D9D9;
+    border-radius: 50%;
+}
+.woc-details2{
+   
+    width: 100%;
+    height: 20%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  
+}
+.woc-details2 img{
+    width: 10%;
+}
+.woc-arrow{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.woc-title{
+   
+    height: 90%;
+    
+    
+    position: relative;
+    left: 2%;
+  
+}
+.woc-title p{
+    position: relative;
+    bottom: 5%
+  
+}
+.woc-arrow{
+   
+    width: 15%;
+    position: relative;
+    left: 50px;
+    margin: auto;
+    
+}
+#arroww{
+  
+    border-radius: 50%;
+    border: solid 1px black;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    
+}
+#arrow-right{
+    font-size: 20px;
+    margin-top: 5px;
+    margin-left: 3px;
+   color: black;
+}
+#arrow-left{
+    font-size: 20px;
+    margin-top: 5px;
+    margin-left: 3px;
+    color: black;
+}
+
+.nine{
+    background-color: #283646;
+    width: 100%;
+    height: 40%;
+}
+.last{
+
+    
+    width: 70%; 
+   
+    margin: auto;
+    position: relative;
+    top: 10%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.last1{
+  
+    width: 70%;
+}
+.last1 img{
+    width: 30%;
+    height: 15%;
+}
+.last1-details{
+    
+    margin-top: 20px;
+    font-size: 12px;
+    color: white;
+    width: 75%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.last2{
+    
+    width: 48%;
+    
+    font-size: 12px;
+    margin-top: 13px;
+    position: relative;
+}
+.last2 p{
+    color: white;
+}
+.div{
+    background-color:  #FFBB1C;
+    width: 150px;
+    height: 40px;
+    position: absolute;
+    top: 50%;
+    left: 41%;
+    
+    border-radius: 50px;
+    color: white;
+    font-size: 17px;
+    text-align: center;
+    
+}
+.div p{
+   position: absolute;
+   left: 40px;
+   bottom: 10px;
+   margin: auto;
+}
+
+.input{
+    background-color: rgba(128, 128, 128, 0.575);
+    border:  solid 1px gray;
+    border-radius: 50px;
+    width: 80%;
+    height: 40px;
+    padding: 10px;
+}
+.line{
+    width: 65%;
+    height: 1px;
+    margin: auto;
+    background-color: gray;
+    position: relative;
+    top: 20%;
+    right: 3%;
+}
+.last-sec{
+
+    width: 65%;
+    height: 5%;
+    margin: auto;
+    position: relative;
+    top: 30%;
+    right: 3%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.last-sec1{
+    width: 40%;
+    font-size: 10px;
+ 
+    color: gray;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.last-sec2{
+    width: 18%;
+    font-size: 10px;
+  
+   
+    color: gray;
+    
+}
+h1{
+background-color: red;
+
+}
+
+@media screen and (max-width: 700px) {
+    .nav{
+        flex-direction: column
+    }
+    ul{
+        flex-direction: column;
+        padding: 5px 0px
+    }
+    .nav-logo{
+        width: 20%
+        
+        
+    }
+    
+};
